@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WifiManagerDemo</string>
+
+    <string name="progress_dlg_title">Scanning WiFi</string>
+    <string name="progress_dlg_msg">Please wait..</string>
+
+</resources>

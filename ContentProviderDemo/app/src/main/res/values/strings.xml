@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContentProviderDemo</string>
+
+    <string name="read_contact">Read Contact</string>
+    <string name="delete_contact">Delete Contact</string>
+    <string name="contact_deleted_successfully">Contact Deleted Successfully</string>
+    <string name="contact_deletion_failed">Failed to Delete Contact</string>
+</resources>

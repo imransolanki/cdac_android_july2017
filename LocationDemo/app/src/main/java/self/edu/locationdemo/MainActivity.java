@@ -36,6 +36,7 @@ public class MainActivity extends Activity {
 
     public void onClick_retrieveLocationBtn(View view) {
 
+        // check OS version
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
             // check for permission
             if (

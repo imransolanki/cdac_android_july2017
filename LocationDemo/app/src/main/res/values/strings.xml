@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocationDemo</string>
+    <string name="retrieve_location">Retrieve Location</string>
+</resources>

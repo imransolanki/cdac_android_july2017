@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JSONDemo</string>
+
+    <string name="json_demo">JSON Demo</string>
+    <string name="please_wait">Please Wait...</string>
+
+    <string name="show_post">Show Post</string>
+    <string name="show_comments">Show Comments</string>
+</resources>
